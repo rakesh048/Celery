@@ -1,0 +1,743 @@
+[2017-02-04 05:47:02,446: INFO/Beat] beat: Starting...
+[2017-02-04 05:47:02,452: INFO/MainProcess] Connected to amqp://guest:**@127.0.0.1:5672//
+[2017-02-04 05:47:02,462: INFO/MainProcess] mingle: searching for neighbors
+[2017-02-04 05:47:03,471: INFO/MainProcess] mingle: all alone
+[2017-02-04 05:47:03,495: WARNING/MainProcess] /home/ecomadmin/Downloads/django_api/env/local/lib/python2.7/site-packages/celery/fixups/django.py:265: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+
+[2017-02-04 05:47:03,496: WARNING/MainProcess] celery@ecomadmin-Veriton-M200-H81 ready.
+[2017-02-04 05:48:19,398: INFO/MainProcess] beat: Shutting down...
+[2017-02-04 05:53:41,320: INFO/Beat] beat: Starting...
+[2017-02-04 05:53:41,323: INFO/MainProcess] Connected to amqp://guest:**@127.0.0.1:5672//
+[2017-02-04 05:53:41,332: INFO/MainProcess] mingle: searching for neighbors
+[2017-02-04 05:53:42,341: INFO/MainProcess] mingle: all alone
+[2017-02-04 05:53:42,361: WARNING/MainProcess] /home/ecomadmin/Downloads/django_api/env/local/lib/python2.7/site-packages/celery/fixups/django.py:265: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+
+[2017-02-04 05:53:42,362: WARNING/MainProcess] celery@ecomadmin-Veriton-M200-H81 ready.
+[2017-02-04 06:01:52,586: INFO/MainProcess] beat: Shutting down...
+[2017-02-04 06:02:38,194: INFO/Beat] beat: Starting...
+[2017-02-04 06:02:38,197: INFO/MainProcess] Connected to amqp://guest:**@127.0.0.1:5672//
+[2017-02-04 06:02:38,211: INFO/MainProcess] mingle: searching for neighbors
+[2017-02-04 06:02:39,220: INFO/MainProcess] mingle: all alone
+[2017-02-04 06:02:39,242: WARNING/MainProcess] /home/ecomadmin/Downloads/django_api/env/local/lib/python2.7/site-packages/celery/fixups/django.py:265: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+
+[2017-02-04 06:02:39,242: WARNING/MainProcess] celery@ecomadmin-Veriton-M200-H81 ready.
+[2017-02-04 06:06:35,626: INFO/MainProcess] beat: Shutting down...
+[2017-02-04 06:06:44,521: INFO/Beat] beat: Starting...
+[2017-02-04 06:06:44,524: INFO/MainProcess] Connected to amqp://guest:**@127.0.0.1:5672//
+[2017-02-04 06:06:44,533: INFO/MainProcess] mingle: searching for neighbors
+[2017-02-04 06:06:45,543: INFO/MainProcess] mingle: all alone
+[2017-02-04 06:06:45,566: WARNING/MainProcess] /home/ecomadmin/Downloads/django_api/env/local/lib/python2.7/site-packages/celery/fixups/django.py:265: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+
+[2017-02-04 06:06:45,567: WARNING/MainProcess] celery@ecomadmin-Veriton-M200-H81 ready.
+[2017-02-04 06:06:49,594: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:06:49,598: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[71b6b663-37be-45c1-a8f5-1dbd749f65d8]
+[2017-02-04 06:06:49,600: WARNING/Worker-2] celery task executed
+[2017-02-04 06:06:49,601: INFO/MainProcess] Task celery_app.tasks.scraper_example[71b6b663-37be-45c1-a8f5-1dbd749f65d8] succeeded in 0.0010405639996s: None
+[2017-02-04 06:06:49,686: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[91ca2af9-2a02-43d4-bcf5-242375e7c970]
+[2017-02-04 06:06:49,687: WARNING/Worker-3] celery task executed
+[2017-02-04 06:06:49,687: INFO/MainProcess] Task celery_app.tasks.scraper_example[91ca2af9-2a02-43d4-bcf5-242375e7c970] succeeded in 0.000849967999784s: None
+[2017-02-04 06:06:54,595: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:06:54,597: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[803afee8-9acd-444e-ab95-cea761989eac]
+[2017-02-04 06:06:54,598: WARNING/Worker-2] celery task executed
+[2017-02-04 06:06:54,599: INFO/MainProcess] Task celery_app.tasks.scraper_example[803afee8-9acd-444e-ab95-cea761989eac] succeeded in 0.000691002000167s: None
+[2017-02-04 06:06:54,686: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[70f8914b-e244-4212-82ad-2f6798b81976]
+[2017-02-04 06:06:54,687: WARNING/Worker-3] celery task executed
+[2017-02-04 06:06:54,688: INFO/MainProcess] Task celery_app.tasks.scraper_example[70f8914b-e244-4212-82ad-2f6798b81976] succeeded in 0.000641223999992s: None
+[2017-02-04 06:06:59,595: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:06:59,599: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[c556d735-f0af-4f88-b78c-68b0363fa888]
+[2017-02-04 06:06:59,600: WARNING/Worker-2] celery task executed
+[2017-02-04 06:06:59,601: INFO/MainProcess] Task celery_app.tasks.scraper_example[c556d735-f0af-4f88-b78c-68b0363fa888] succeeded in 0.00126635800007s: None
+[2017-02-04 06:06:59,687: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[4e750e2c-9e92-43ff-a343-84a09ae71199]
+[2017-02-04 06:06:59,688: WARNING/Worker-3] celery task executed
+[2017-02-04 06:06:59,689: INFO/MainProcess] Task celery_app.tasks.scraper_example[4e750e2c-9e92-43ff-a343-84a09ae71199] succeeded in 0.000923988000068s: None
+[2017-02-04 06:07:04,596: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:07:04,598: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[451e4836-48c2-43cc-9f62-a219a9e097bc]
+[2017-02-04 06:07:04,599: WARNING/Worker-2] celery task executed
+[2017-02-04 06:07:04,600: INFO/MainProcess] Task celery_app.tasks.scraper_example[451e4836-48c2-43cc-9f62-a219a9e097bc] succeeded in 0.000953306999691s: None
+[2017-02-04 06:07:04,687: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[85fc5b24-d7c2-43c7-bb6d-394d7de3805f]
+[2017-02-04 06:07:04,688: WARNING/Worker-3] celery task executed
+[2017-02-04 06:07:04,689: INFO/MainProcess] Task celery_app.tasks.scraper_example[85fc5b24-d7c2-43c7-bb6d-394d7de3805f] succeeded in 0.000777932000346s: None
+[2017-02-04 06:07:09,600: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:07:09,603: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[92ecacab-87ee-4c03-b2b3-671f5ebba24a]
+[2017-02-04 06:07:09,604: WARNING/Worker-2] celery task executed
+[2017-02-04 06:07:09,605: INFO/MainProcess] Task celery_app.tasks.scraper_example[92ecacab-87ee-4c03-b2b3-671f5ebba24a] succeeded in 0.000929952999286s: None
+[2017-02-04 06:07:09,688: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[e844449f-5460-4352-8310-fc694d164ecb]
+[2017-02-04 06:07:09,689: WARNING/Worker-3] celery task executed
+[2017-02-04 06:07:09,690: INFO/MainProcess] Task celery_app.tasks.scraper_example[e844449f-5460-4352-8310-fc694d164ecb] succeeded in 0.00113808999959s: None
+[2017-02-04 06:07:14,601: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:07:14,604: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[460e70e8-c0d3-4faa-8702-c3b768fe74e5]
+[2017-02-04 06:07:14,606: WARNING/Worker-2] celery task executed
+[2017-02-04 06:07:14,607: INFO/MainProcess] Task celery_app.tasks.scraper_example[460e70e8-c0d3-4faa-8702-c3b768fe74e5] succeeded in 0.00157699900046s: None
+[2017-02-04 06:07:14,689: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[c1ade703-c81b-493e-9b33-100a00fa71c4]
+[2017-02-04 06:07:14,690: WARNING/Worker-3] celery task executed
+[2017-02-04 06:07:14,691: INFO/MainProcess] Task celery_app.tasks.scraper_example[c1ade703-c81b-493e-9b33-100a00fa71c4] succeeded in 0.00140311899941s: None
+[2017-02-04 06:07:19,601: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:07:19,604: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[0cbada3e-315a-4571-bd12-9fad2348f30f]
+[2017-02-04 06:07:19,606: WARNING/Worker-2] celery task executed
+[2017-02-04 06:07:19,606: INFO/MainProcess] Task celery_app.tasks.scraper_example[0cbada3e-315a-4571-bd12-9fad2348f30f] succeeded in 0.00130768700001s: None
+[2017-02-04 06:07:19,689: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[354cb7d0-a409-4802-9f8d-b00ce489dfc2]
+[2017-02-04 06:07:19,690: WARNING/Worker-3] celery task executed
+[2017-02-04 06:07:19,691: INFO/MainProcess] Task celery_app.tasks.scraper_example[354cb7d0-a409-4802-9f8d-b00ce489dfc2] succeeded in 0.000974554000095s: None
+[2017-02-04 06:07:24,602: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:07:24,606: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[761068f9-5a80-4c30-9616-7e9b57ccd8ec]
+[2017-02-04 06:07:24,608: WARNING/Worker-2] celery task executed
+[2017-02-04 06:07:24,608: INFO/MainProcess] Task celery_app.tasks.scraper_example[761068f9-5a80-4c30-9616-7e9b57ccd8ec] succeeded in 0.00127597400024s: None
+[2017-02-04 06:07:24,689: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[b79b2ad8-7e73-42e2-91a1-8ba95b8880a4]
+[2017-02-04 06:07:24,691: WARNING/Worker-3] celery task executed
+[2017-02-04 06:07:24,691: INFO/MainProcess] Task celery_app.tasks.scraper_example[b79b2ad8-7e73-42e2-91a1-8ba95b8880a4] succeeded in 0.000974492999376s: None
+[2017-02-04 06:07:29,603: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:07:29,606: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[052e3864-1173-42b1-87b1-081aa4bd365c]
+[2017-02-04 06:07:29,608: WARNING/Worker-2] celery task executed
+[2017-02-04 06:07:29,609: INFO/MainProcess] Task celery_app.tasks.scraper_example[052e3864-1173-42b1-87b1-081aa4bd365c] succeeded in 0.00150086400026s: None
+[2017-02-04 06:07:29,689: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[d6dbf0cb-9a66-43eb-a81a-6ba98071f739]
+[2017-02-04 06:07:29,690: WARNING/Worker-3] celery task executed
+[2017-02-04 06:07:29,691: INFO/MainProcess] Task celery_app.tasks.scraper_example[d6dbf0cb-9a66-43eb-a81a-6ba98071f739] succeeded in 0.000700902000062s: None
+[2017-02-04 06:07:34,604: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:07:34,606: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[1918cc3b-4707-40c6-b969-881f7e0d2dba]
+[2017-02-04 06:07:34,607: WARNING/Worker-2] celery task executed
+[2017-02-04 06:07:34,607: INFO/MainProcess] Task celery_app.tasks.scraper_example[1918cc3b-4707-40c6-b969-881f7e0d2dba] succeeded in 0.000863086999743s: None
+[2017-02-04 06:07:34,689: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[2d6bd541-4b52-45bc-b46c-3f53aaf6d253]
+[2017-02-04 06:07:34,690: WARNING/Worker-3] celery task executed
+[2017-02-04 06:07:34,691: INFO/MainProcess] Task celery_app.tasks.scraper_example[2d6bd541-4b52-45bc-b46c-3f53aaf6d253] succeeded in 0.000908885000172s: None
+[2017-02-04 06:07:39,604: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:07:39,607: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[d1c3be50-d291-4a2f-91b8-6b7f432d0b34]
+[2017-02-04 06:07:39,609: WARNING/Worker-2] celery task executed
+[2017-02-04 06:07:39,610: INFO/MainProcess] Task celery_app.tasks.scraper_example[d1c3be50-d291-4a2f-91b8-6b7f432d0b34] succeeded in 0.00101124100001s: None
+[2017-02-04 06:07:39,690: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[4284da4c-5106-4d87-9b3a-6dc9967ed75d]
+[2017-02-04 06:07:39,691: WARNING/Worker-3] celery task executed
+[2017-02-04 06:07:39,692: INFO/MainProcess] Task celery_app.tasks.scraper_example[4284da4c-5106-4d87-9b3a-6dc9967ed75d] succeeded in 0.000857723000081s: None
+[2017-02-04 06:07:44,605: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:07:44,606: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[7ca8aee5-aabf-4990-b310-7a63a8db9aff]
+[2017-02-04 06:07:44,607: WARNING/Worker-2] celery task executed
+[2017-02-04 06:07:44,607: INFO/MainProcess] Task celery_app.tasks.scraper_example[7ca8aee5-aabf-4990-b310-7a63a8db9aff] succeeded in 0.000427461999607s: None
+[2017-02-04 06:07:44,690: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[67d021e2-07c7-4eb9-a4b2-71d7d826dd88]
+[2017-02-04 06:07:44,691: WARNING/Worker-3] celery task executed
+[2017-02-04 06:07:44,692: INFO/MainProcess] Task celery_app.tasks.scraper_example[67d021e2-07c7-4eb9-a4b2-71d7d826dd88] succeeded in 0.000701695999851s: None
+[2017-02-04 06:07:49,605: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:07:49,607: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[79435cc8-00a3-4d1b-b8d5-82b4995fa998]
+[2017-02-04 06:07:49,608: WARNING/Worker-2] celery task executed
+[2017-02-04 06:07:49,609: INFO/MainProcess] Task celery_app.tasks.scraper_example[79435cc8-00a3-4d1b-b8d5-82b4995fa998] succeeded in 0.000828260999697s: None
+[2017-02-04 06:07:49,691: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[817c8ce9-48c1-4516-aab3-901d7cb75038]
+[2017-02-04 06:07:49,692: WARNING/Worker-3] celery task executed
+[2017-02-04 06:07:49,692: INFO/MainProcess] Task celery_app.tasks.scraper_example[817c8ce9-48c1-4516-aab3-901d7cb75038] succeeded in 0.000774755000748s: None
+[2017-02-04 06:07:54,606: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:07:54,609: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[14e4cbb2-dd2c-4d24-b5b7-4344b82ad064]
+[2017-02-04 06:07:54,610: WARNING/Worker-2] celery task executed
+[2017-02-04 06:07:54,611: INFO/MainProcess] Task celery_app.tasks.scraper_example[14e4cbb2-dd2c-4d24-b5b7-4344b82ad064] succeeded in 0.0011354950002s: None
+[2017-02-04 06:07:54,693: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[9cd0df17-4467-40de-9600-94bb013083bd]
+[2017-02-04 06:07:54,694: WARNING/Worker-3] celery task executed
+[2017-02-04 06:07:54,695: INFO/MainProcess] Task celery_app.tasks.scraper_example[9cd0df17-4467-40de-9600-94bb013083bd] succeeded in 0.000822454000627s: None
+[2017-02-04 06:07:59,606: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:07:59,608: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[b5dc881a-d9e6-4c1e-bcc4-e9ee55a40d14]
+[2017-02-04 06:07:59,609: WARNING/Worker-2] celery task executed
+[2017-02-04 06:07:59,609: INFO/MainProcess] Task celery_app.tasks.scraper_example[b5dc881a-d9e6-4c1e-bcc4-e9ee55a40d14] succeeded in 0.000979054999334s: None
+[2017-02-04 06:07:59,691: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[9424ae22-d2d0-4c17-ad70-4d4e26e141a1]
+[2017-02-04 06:07:59,692: WARNING/Worker-3] celery task executed
+[2017-02-04 06:07:59,692: INFO/MainProcess] Task celery_app.tasks.scraper_example[9424ae22-d2d0-4c17-ad70-4d4e26e141a1] succeeded in 0.000571935999687s: None
+[2017-02-04 06:08:04,607: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:08:04,608: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[78faf7fc-e1d9-4d1d-8e2e-a3f74e3bc451]
+[2017-02-04 06:08:04,609: WARNING/Worker-2] celery task executed
+[2017-02-04 06:08:04,610: INFO/MainProcess] Task celery_app.tasks.scraper_example[78faf7fc-e1d9-4d1d-8e2e-a3f74e3bc451] succeeded in 0.00107436100006s: None
+[2017-02-04 06:08:04,692: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[ea811070-031a-4d1e-a758-9637eeadab1a]
+[2017-02-04 06:08:04,693: WARNING/Worker-3] celery task executed
+[2017-02-04 06:08:04,693: INFO/MainProcess] Task celery_app.tasks.scraper_example[ea811070-031a-4d1e-a758-9637eeadab1a] succeeded in 0.00068428800023s: None
+[2017-02-04 06:08:09,607: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:08:09,608: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[36d0ca30-8773-49ed-847a-fa18585c3de5]
+[2017-02-04 06:08:09,609: WARNING/Worker-2] celery task executed
+[2017-02-04 06:08:09,610: INFO/MainProcess] Task celery_app.tasks.scraper_example[36d0ca30-8773-49ed-847a-fa18585c3de5] succeeded in 0.00074159199994s: None
+[2017-02-04 06:08:09,692: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[435d7c9f-f152-4403-aa32-ee4156f109d4]
+[2017-02-04 06:08:09,693: WARNING/Worker-3] celery task executed
+[2017-02-04 06:08:09,693: INFO/MainProcess] Task celery_app.tasks.scraper_example[435d7c9f-f152-4403-aa32-ee4156f109d4] succeeded in 0.000953818000198s: None
+[2017-02-04 06:08:14,607: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:08:14,609: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[c99b33f9-7b9f-46fa-b031-974f85dc29e5]
+[2017-02-04 06:08:14,609: WARNING/Worker-2] celery task executed
+[2017-02-04 06:08:14,611: INFO/MainProcess] Task celery_app.tasks.scraper_example[c99b33f9-7b9f-46fa-b031-974f85dc29e5] succeeded in 0.00140037099936s: None
+[2017-02-04 06:08:14,692: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[e8b45d61-8d65-4664-ad2e-d12d646d508e]
+[2017-02-04 06:08:14,693: WARNING/Worker-3] celery task executed
+[2017-02-04 06:08:14,694: INFO/MainProcess] Task celery_app.tasks.scraper_example[e8b45d61-8d65-4664-ad2e-d12d646d508e] succeeded in 0.00176347900015s: None
+[2017-02-04 06:08:19,608: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:08:19,610: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[1d40d9b6-8688-4b5e-9426-1999c6c74f43]
+[2017-02-04 06:08:19,611: WARNING/Worker-2] celery task executed
+[2017-02-04 06:08:19,611: INFO/MainProcess] Task celery_app.tasks.scraper_example[1d40d9b6-8688-4b5e-9426-1999c6c74f43] succeeded in 0.000644054000077s: None
+[2017-02-04 06:08:19,692: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[bc206553-6b14-4598-ab30-e0d41a3695e1]
+[2017-02-04 06:08:19,693: WARNING/Worker-3] celery task executed
+[2017-02-04 06:08:19,694: INFO/MainProcess] Task celery_app.tasks.scraper_example[bc206553-6b14-4598-ab30-e0d41a3695e1] succeeded in 0.000689516000421s: None
+[2017-02-04 06:08:24,608: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:08:24,611: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[15c9492c-73d8-4a21-af98-83bcc96e9dd1]
+[2017-02-04 06:08:24,612: WARNING/Worker-2] celery task executed
+[2017-02-04 06:08:24,616: INFO/MainProcess] Task celery_app.tasks.scraper_example[15c9492c-73d8-4a21-af98-83bcc96e9dd1] succeeded in 0.00436032899961s: None
+[2017-02-04 06:08:24,694: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[47774922-e5d6-46d9-b0fe-f6ef9288932a]
+[2017-02-04 06:08:24,695: WARNING/Worker-3] celery task executed
+[2017-02-04 06:08:24,696: INFO/MainProcess] Task celery_app.tasks.scraper_example[47774922-e5d6-46d9-b0fe-f6ef9288932a] succeeded in 0.00115445899974s: None
+[2017-02-04 06:08:29,611: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:08:29,612: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[9db55a7a-16d4-45cc-8833-0c6d562f4930]
+[2017-02-04 06:08:29,613: WARNING/Worker-2] celery task executed
+[2017-02-04 06:08:29,613: INFO/MainProcess] Task celery_app.tasks.scraper_example[9db55a7a-16d4-45cc-8833-0c6d562f4930] succeeded in 0.000686982999468s: None
+[2017-02-04 06:08:29,694: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[e05bf3c7-ed3e-4ed2-a22c-ebdd343b87a1]
+[2017-02-04 06:08:29,695: WARNING/Worker-3] celery task executed
+[2017-02-04 06:08:29,696: INFO/MainProcess] Task celery_app.tasks.scraper_example[e05bf3c7-ed3e-4ed2-a22c-ebdd343b87a1] succeeded in 0.00158383400048s: None
+[2017-02-04 06:08:34,611: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:08:34,612: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[973d5aaa-f70d-4d9d-b04c-befe6e509c67]
+[2017-02-04 06:08:34,613: WARNING/Worker-2] celery task executed
+[2017-02-04 06:08:34,614: INFO/MainProcess] Task celery_app.tasks.scraper_example[973d5aaa-f70d-4d9d-b04c-befe6e509c67] succeeded in 0.000645114999315s: None
+[2017-02-04 06:08:34,694: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[964603ce-2875-474b-8763-76fe95181f3b]
+[2017-02-04 06:08:34,695: WARNING/Worker-3] celery task executed
+[2017-02-04 06:08:34,695: INFO/MainProcess] Task celery_app.tasks.scraper_example[964603ce-2875-474b-8763-76fe95181f3b] succeeded in 0.000651026000014s: None
+[2017-02-04 06:08:39,612: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:08:39,614: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[41d61377-98ce-4373-b4ad-59f9d7a13837]
+[2017-02-04 06:08:39,614: WARNING/Worker-2] celery task executed
+[2017-02-04 06:08:39,618: INFO/MainProcess] Task celery_app.tasks.scraper_example[41d61377-98ce-4373-b4ad-59f9d7a13837] succeeded in 0.0036658529998s: None
+[2017-02-04 06:08:39,695: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[8de26f0c-876a-4586-abb2-466bbd332065]
+[2017-02-04 06:08:39,695: WARNING/Worker-3] celery task executed
+[2017-02-04 06:08:39,696: INFO/MainProcess] Task celery_app.tasks.scraper_example[8de26f0c-876a-4586-abb2-466bbd332065] succeeded in 0.000505263999912s: None
+[2017-02-04 06:08:44,612: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:08:44,614: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[ade6592f-8c8c-41c1-b3bf-e7ac63b557b8]
+[2017-02-04 06:08:44,615: WARNING/Worker-2] celery task executed
+[2017-02-04 06:08:44,616: INFO/MainProcess] Task celery_app.tasks.scraper_example[ade6592f-8c8c-41c1-b3bf-e7ac63b557b8] succeeded in 0.00108073200045s: None
+[2017-02-04 06:08:44,695: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[f6a6c24e-1e9f-42e8-bf6c-a773d7fd3f7a]
+[2017-02-04 06:08:44,696: WARNING/Worker-3] celery task executed
+[2017-02-04 06:08:44,696: INFO/MainProcess] Task celery_app.tasks.scraper_example[f6a6c24e-1e9f-42e8-bf6c-a773d7fd3f7a] succeeded in 0.000628207999398s: None
+[2017-02-04 06:08:49,613: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:08:49,614: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[9c9b91ba-5679-41ab-b22a-7d17df8549d9]
+[2017-02-04 06:08:49,615: WARNING/Worker-2] celery task executed
+[2017-02-04 06:08:49,615: INFO/MainProcess] Task celery_app.tasks.scraper_example[9c9b91ba-5679-41ab-b22a-7d17df8549d9] succeeded in 0.000630069000181s: None
+[2017-02-04 06:08:49,695: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[a2b218c6-524b-49bb-8c63-8d6167cb57b0]
+[2017-02-04 06:08:49,696: WARNING/Worker-3] celery task executed
+[2017-02-04 06:08:49,696: INFO/MainProcess] Task celery_app.tasks.scraper_example[a2b218c6-524b-49bb-8c63-8d6167cb57b0] succeeded in 0.000643360999675s: None
+[2017-02-04 06:08:54,613: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:08:54,614: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[ca222df5-959e-42e4-87c8-fc722ac6cf28]
+[2017-02-04 06:08:54,615: WARNING/Worker-2] celery task executed
+[2017-02-04 06:08:54,616: INFO/MainProcess] Task celery_app.tasks.scraper_example[ca222df5-959e-42e4-87c8-fc722ac6cf28] succeeded in 0.000622900000053s: None
+[2017-02-04 06:08:54,695: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[f70ead7a-6673-41c4-be05-1aa005121db3]
+[2017-02-04 06:08:54,696: WARNING/Worker-3] celery task executed
+[2017-02-04 06:08:54,696: INFO/MainProcess] Task celery_app.tasks.scraper_example[f70ead7a-6673-41c4-be05-1aa005121db3] succeeded in 0.00061401199946s: None
+[2017-02-04 06:08:59,613: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:08:59,615: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[2ec4dcaf-cae8-48db-9edf-797242051982]
+[2017-02-04 06:08:59,616: WARNING/Worker-2] celery task executed
+[2017-02-04 06:08:59,617: INFO/MainProcess] Task celery_app.tasks.scraper_example[2ec4dcaf-cae8-48db-9edf-797242051982] succeeded in 0.000645178000013s: None
+[2017-02-04 06:08:59,695: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[7c8cb788-3429-4112-9ad0-1f2411f2f08e]
+[2017-02-04 06:08:59,697: WARNING/Worker-3] celery task executed
+[2017-02-04 06:08:59,698: INFO/MainProcess] Task celery_app.tasks.scraper_example[7c8cb788-3429-4112-9ad0-1f2411f2f08e] succeeded in 0.00143717599985s: None
+[2017-02-04 06:09:04,614: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:09:04,618: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[36e8c35c-0422-42ce-a4ed-d834fc815f77]
+[2017-02-04 06:09:04,619: WARNING/Worker-2] celery task executed
+[2017-02-04 06:09:04,619: INFO/MainProcess] Task celery_app.tasks.scraper_example[36e8c35c-0422-42ce-a4ed-d834fc815f77] succeeded in 0.000693951999892s: None
+[2017-02-04 06:09:04,696: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[15fb191b-7ad1-423a-aaa5-221f933873e2]
+[2017-02-04 06:09:04,697: WARNING/Worker-3] celery task executed
+[2017-02-04 06:09:04,697: INFO/MainProcess] Task celery_app.tasks.scraper_example[15fb191b-7ad1-423a-aaa5-221f933873e2] succeeded in 0.000831234999168s: None
+[2017-02-04 06:09:09,614: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:09:09,616: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[41c5bc52-28c9-41e1-9812-09fc29caa5c0]
+[2017-02-04 06:09:09,618: WARNING/Worker-2] celery task executed
+[2017-02-04 06:09:09,619: INFO/MainProcess] Task celery_app.tasks.scraper_example[41c5bc52-28c9-41e1-9812-09fc29caa5c0] succeeded in 0.00223630299934s: None
+[2017-02-04 06:09:09,696: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[af8a078a-61e0-456c-a77e-0708809c0658]
+[2017-02-04 06:09:09,697: WARNING/Worker-3] celery task executed
+[2017-02-04 06:09:09,698: INFO/MainProcess] Task celery_app.tasks.scraper_example[af8a078a-61e0-456c-a77e-0708809c0658] succeeded in 0.000664289000269s: None
+[2017-02-04 06:09:14,615: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:09:14,617: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[e21bd652-a006-4458-84dd-fc8a65a90864]
+[2017-02-04 06:09:14,618: WARNING/Worker-2] celery task executed
+[2017-02-04 06:09:14,619: INFO/MainProcess] Task celery_app.tasks.scraper_example[e21bd652-a006-4458-84dd-fc8a65a90864] succeeded in 0.00105764599994s: None
+[2017-02-04 06:09:14,697: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[2036d1db-810b-4638-95ff-8d5f156be7eb]
+[2017-02-04 06:09:14,698: WARNING/Worker-3] celery task executed
+[2017-02-04 06:09:14,698: INFO/MainProcess] Task celery_app.tasks.scraper_example[2036d1db-810b-4638-95ff-8d5f156be7eb] succeeded in 0.000817061999442s: None
+[2017-02-04 06:09:19,615: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:09:19,617: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[86663907-b0c3-413e-ba18-5fbed5088a87]
+[2017-02-04 06:09:19,619: WARNING/Worker-2] celery task executed
+[2017-02-04 06:09:19,619: INFO/MainProcess] Task celery_app.tasks.scraper_example[86663907-b0c3-413e-ba18-5fbed5088a87] succeeded in 0.0010480990004s: None
+[2017-02-04 06:09:19,697: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[ad9e8c34-87a3-48b4-803f-4b48f79a3c6a]
+[2017-02-04 06:09:19,699: WARNING/Worker-3] celery task executed
+[2017-02-04 06:09:19,700: INFO/MainProcess] Task celery_app.tasks.scraper_example[ad9e8c34-87a3-48b4-803f-4b48f79a3c6a] succeeded in 0.00152502299989s: None
+[2017-02-04 06:09:24,616: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:09:24,617: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[69713f83-25cf-473d-a3bb-acb3ef808770]
+[2017-02-04 06:09:24,618: WARNING/Worker-2] celery task executed
+[2017-02-04 06:09:24,618: INFO/MainProcess] Task celery_app.tasks.scraper_example[69713f83-25cf-473d-a3bb-acb3ef808770] succeeded in 0.000626352999461s: None
+[2017-02-04 06:09:24,697: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[36022905-f99e-4e47-9d21-89ce4f2ada5f]
+[2017-02-04 06:09:24,698: WARNING/Worker-3] celery task executed
+[2017-02-04 06:09:24,699: INFO/MainProcess] Task celery_app.tasks.scraper_example[36022905-f99e-4e47-9d21-89ce4f2ada5f] succeeded in 0.000777360000029s: None
+[2017-02-04 06:09:29,616: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:09:29,617: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[d2d72db8-2f36-43e4-99f0-1b26f59514c0]
+[2017-02-04 06:09:29,618: WARNING/Worker-2] celery task executed
+[2017-02-04 06:09:29,618: INFO/MainProcess] Task celery_app.tasks.scraper_example[d2d72db8-2f36-43e4-99f0-1b26f59514c0] succeeded in 0.000613972999417s: None
+[2017-02-04 06:09:29,698: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[cb345c55-fab6-4fe3-b22c-3798b8ea836b]
+[2017-02-04 06:09:29,699: WARNING/Worker-3] celery task executed
+[2017-02-04 06:09:29,699: INFO/MainProcess] Task celery_app.tasks.scraper_example[cb345c55-fab6-4fe3-b22c-3798b8ea836b] succeeded in 0.000664843000777s: None
+[2017-02-04 06:09:34,616: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:09:34,618: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[07bb8df9-987d-45fe-ae1f-349f0cf2c118]
+[2017-02-04 06:09:34,618: WARNING/Worker-2] celery task executed
+[2017-02-04 06:09:34,619: INFO/MainProcess] Task celery_app.tasks.scraper_example[07bb8df9-987d-45fe-ae1f-349f0cf2c118] succeeded in 0.000727077999727s: None
+[2017-02-04 06:09:34,698: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[6654c50a-77fe-4bb4-ac3f-c3efbbed2031]
+[2017-02-04 06:09:34,699: WARNING/Worker-3] celery task executed
+[2017-02-04 06:09:34,699: INFO/MainProcess] Task celery_app.tasks.scraper_example[6654c50a-77fe-4bb4-ac3f-c3efbbed2031] succeeded in 0.000737702000151s: None
+[2017-02-04 06:09:39,617: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:09:39,618: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[b8cddb1c-e6dc-40a7-aeda-ce2fceab69f3]
+[2017-02-04 06:09:39,620: WARNING/Worker-2] celery task executed
+[2017-02-04 06:09:39,620: INFO/MainProcess] Task celery_app.tasks.scraper_example[b8cddb1c-e6dc-40a7-aeda-ce2fceab69f3] succeeded in 0.00088338400019s: None
+[2017-02-04 06:09:39,698: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[8a2c59e3-2bb9-4ae7-9452-e2128dd63180]
+[2017-02-04 06:09:39,699: WARNING/Worker-3] celery task executed
+[2017-02-04 06:09:39,699: INFO/MainProcess] Task celery_app.tasks.scraper_example[8a2c59e3-2bb9-4ae7-9452-e2128dd63180] succeeded in 0.000645332000204s: None
+[2017-02-04 06:09:44,617: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:09:44,619: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[6cad68ff-510c-4a9f-a045-3d2e73f70b86]
+[2017-02-04 06:09:44,619: WARNING/Worker-2] celery task executed
+[2017-02-04 06:09:44,620: INFO/MainProcess] Task celery_app.tasks.scraper_example[6cad68ff-510c-4a9f-a045-3d2e73f70b86] succeeded in 0.000971419000052s: None
+[2017-02-04 06:09:44,699: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[a7cee4a1-c729-4c40-9a15-81d73c669936]
+[2017-02-04 06:09:44,699: WARNING/Worker-3] celery task executed
+[2017-02-04 06:09:44,700: INFO/MainProcess] Task celery_app.tasks.scraper_example[a7cee4a1-c729-4c40-9a15-81d73c669936] succeeded in 0.00063811399923s: None
+[2017-02-04 06:09:49,637: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:09:49,638: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[4ec0e0f5-0bb3-402d-b3db-61c8d8f6c8ae]
+[2017-02-04 06:09:49,639: WARNING/Worker-2] celery task executed
+[2017-02-04 06:09:49,639: INFO/MainProcess] Task celery_app.tasks.scraper_example[4ec0e0f5-0bb3-402d-b3db-61c8d8f6c8ae] succeeded in 0.000559396999961s: None
+[2017-02-04 06:09:49,699: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[c70723a8-8856-4ccb-a68b-23454547a45a]
+[2017-02-04 06:09:49,700: WARNING/Worker-3] celery task executed
+[2017-02-04 06:09:49,701: INFO/MainProcess] Task celery_app.tasks.scraper_example[c70723a8-8856-4ccb-a68b-23454547a45a] succeeded in 0.000500754000313s: None
+[2017-02-04 06:09:54,638: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:09:54,640: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[f8bda451-e1cc-45b1-bd86-4c9dc196227b]
+[2017-02-04 06:09:54,642: WARNING/Worker-2] celery task executed
+[2017-02-04 06:09:54,643: INFO/MainProcess] Task celery_app.tasks.scraper_example[f8bda451-e1cc-45b1-bd86-4c9dc196227b] succeeded in 0.00203982099993s: None
+[2017-02-04 06:09:54,699: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[3497b1f1-19f7-45a9-910e-bae794ed72b5]
+[2017-02-04 06:09:54,700: WARNING/Worker-3] celery task executed
+[2017-02-04 06:09:54,700: INFO/MainProcess] Task celery_app.tasks.scraper_example[3497b1f1-19f7-45a9-910e-bae794ed72b5] succeeded in 0.000646651000352s: None
+[2017-02-04 06:09:59,639: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:09:59,641: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[a24d2b0a-1f04-4e43-89e5-4a9a36e92a79]
+[2017-02-04 06:09:59,642: WARNING/Worker-2] celery task executed
+[2017-02-04 06:09:59,643: INFO/MainProcess] Task celery_app.tasks.scraper_example[a24d2b0a-1f04-4e43-89e5-4a9a36e92a79] succeeded in 0.00104469399957s: None
+[2017-02-04 06:09:59,700: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[d08b141a-03fc-4249-995f-065c8bfe1d32]
+[2017-02-04 06:09:59,701: WARNING/Worker-3] celery task executed
+[2017-02-04 06:09:59,701: INFO/MainProcess] Task celery_app.tasks.scraper_example[d08b141a-03fc-4249-995f-065c8bfe1d32] succeeded in 0.000964395000665s: None
+[2017-02-04 06:10:04,639: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:10:04,641: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[92da4ea0-edf9-46a5-bb1e-a85815408ce7]
+[2017-02-04 06:10:04,642: WARNING/Worker-2] celery task executed
+[2017-02-04 06:10:04,642: INFO/MainProcess] Task celery_app.tasks.scraper_example[92da4ea0-edf9-46a5-bb1e-a85815408ce7] succeeded in 0.000800380999863s: None
+[2017-02-04 06:10:04,700: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[5a07ec54-568b-40ac-8c4e-0937faa374b9]
+[2017-02-04 06:10:04,700: WARNING/Worker-3] celery task executed
+[2017-02-04 06:10:04,701: INFO/MainProcess] Task celery_app.tasks.scraper_example[5a07ec54-568b-40ac-8c4e-0937faa374b9] succeeded in 0.000721319000149s: None
+[2017-02-04 06:10:09,640: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:10:09,641: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[6bee1710-2265-44a0-917e-5d639570f7d8]
+[2017-02-04 06:10:09,642: WARNING/Worker-2] celery task executed
+[2017-02-04 06:10:09,642: INFO/MainProcess] Task celery_app.tasks.scraper_example[6bee1710-2265-44a0-917e-5d639570f7d8] succeeded in 0.000651487000141s: None
+[2017-02-04 06:10:09,700: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[791d38ea-ad65-4beb-9755-d0fca99a11bc]
+[2017-02-04 06:10:09,701: WARNING/Worker-3] celery task executed
+[2017-02-04 06:10:09,701: INFO/MainProcess] Task celery_app.tasks.scraper_example[791d38ea-ad65-4beb-9755-d0fca99a11bc] succeeded in 0.00063854400014s: None
+[2017-02-04 06:10:14,640: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:10:14,644: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[b684a585-a554-4703-a079-1aa94e803a86]
+[2017-02-04 06:10:14,646: WARNING/Worker-2] celery task executed
+[2017-02-04 06:10:14,647: INFO/MainProcess] Task celery_app.tasks.scraper_example[b684a585-a554-4703-a079-1aa94e803a86] succeeded in 0.00161546300023s: None
+[2017-02-04 06:10:14,701: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[5998869b-658f-43fb-87a3-64b068862cef]
+[2017-02-04 06:10:14,703: WARNING/Worker-3] celery task executed
+[2017-02-04 06:10:14,704: INFO/MainProcess] Task celery_app.tasks.scraper_example[5998869b-658f-43fb-87a3-64b068862cef] succeeded in 0.0017261539997s: None
+[2017-02-04 06:10:19,641: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:10:19,643: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[2943a9dd-f216-46f2-a740-b6faa3b16600]
+[2017-02-04 06:10:19,643: WARNING/Worker-2] celery task executed
+[2017-02-04 06:10:19,644: INFO/MainProcess] Task celery_app.tasks.scraper_example[2943a9dd-f216-46f2-a740-b6faa3b16600] succeeded in 0.000642373999654s: None
+[2017-02-04 06:10:19,701: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[18686a40-3896-4150-873c-c532d8db1327]
+[2017-02-04 06:10:19,701: WARNING/Worker-3] celery task executed
+[2017-02-04 06:10:19,702: INFO/MainProcess] Task celery_app.tasks.scraper_example[18686a40-3896-4150-873c-c532d8db1327] succeeded in 0.000680006999573s: None
+[2017-02-04 06:10:24,641: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:10:24,643: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[81d9059b-8a6d-46f4-9211-91a711976ebe]
+[2017-02-04 06:10:24,643: WARNING/Worker-2] celery task executed
+[2017-02-04 06:10:24,644: INFO/MainProcess] Task celery_app.tasks.scraper_example[81d9059b-8a6d-46f4-9211-91a711976ebe] succeeded in 0.00064867600031s: None
+[2017-02-04 06:10:24,701: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[749492a5-9de0-44d2-9bb7-14304f2dae96]
+[2017-02-04 06:10:24,702: WARNING/Worker-3] celery task executed
+[2017-02-04 06:10:24,702: INFO/MainProcess] Task celery_app.tasks.scraper_example[749492a5-9de0-44d2-9bb7-14304f2dae96] succeeded in 0.000674501000503s: None
+[2017-02-04 06:10:29,642: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:10:29,643: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[7bd88d11-1a01-4bca-82e8-4061e508dfd2]
+[2017-02-04 06:10:29,644: WARNING/Worker-2] celery task executed
+[2017-02-04 06:10:29,645: INFO/MainProcess] Task celery_app.tasks.scraper_example[7bd88d11-1a01-4bca-82e8-4061e508dfd2] succeeded in 0.000666875000206s: None
+[2017-02-04 06:10:29,702: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[ba86cdf9-3ff7-4971-81d8-459623568aa3]
+[2017-02-04 06:10:29,702: WARNING/Worker-3] celery task executed
+[2017-02-04 06:10:29,703: INFO/MainProcess] Task celery_app.tasks.scraper_example[ba86cdf9-3ff7-4971-81d8-459623568aa3] succeeded in 0.000669306999953s: None
+[2017-02-04 06:10:34,642: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:10:34,644: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[e2fe8582-9092-4e9d-b018-3943dbb35a4e]
+[2017-02-04 06:10:34,645: WARNING/Worker-2] celery task executed
+[2017-02-04 06:10:34,645: INFO/MainProcess] Task celery_app.tasks.scraper_example[e2fe8582-9092-4e9d-b018-3943dbb35a4e] succeeded in 0.000867780999215s: None
+[2017-02-04 06:10:34,702: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[b507209c-56d0-44fa-8db4-96502be29821]
+[2017-02-04 06:10:34,703: WARNING/Worker-3] celery task executed
+[2017-02-04 06:10:34,703: INFO/MainProcess] Task celery_app.tasks.scraper_example[b507209c-56d0-44fa-8db4-96502be29821] succeeded in 0.000651180000204s: None
+[2017-02-04 06:10:39,643: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:10:39,644: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[013639ce-abcb-4541-8125-62489b285276]
+[2017-02-04 06:10:39,645: WARNING/Worker-2] celery task executed
+[2017-02-04 06:10:39,646: INFO/MainProcess] Task celery_app.tasks.scraper_example[013639ce-abcb-4541-8125-62489b285276] succeeded in 0.00131702099952s: None
+[2017-02-04 06:10:39,703: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[c396d403-1c8c-4636-b83b-f8a8e4c6fb9b]
+[2017-02-04 06:10:39,703: WARNING/Worker-3] celery task executed
+[2017-02-04 06:10:39,704: INFO/MainProcess] Task celery_app.tasks.scraper_example[c396d403-1c8c-4636-b83b-f8a8e4c6fb9b] succeeded in 0.000672667999424s: None
+[2017-02-04 06:10:44,643: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:10:44,645: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[41275ac3-c9a0-47a6-a8ac-e84ceedf908e]
+[2017-02-04 06:10:44,646: WARNING/Worker-2] celery task executed
+[2017-02-04 06:10:44,646: INFO/MainProcess] Task celery_app.tasks.scraper_example[41275ac3-c9a0-47a6-a8ac-e84ceedf908e] succeeded in 0.00106174600023s: None
+[2017-02-04 06:10:44,702: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[bb398abd-9e91-43ac-9730-79fb04dbbeeb]
+[2017-02-04 06:10:44,703: WARNING/Worker-3] celery task executed
+[2017-02-04 06:10:44,704: INFO/MainProcess] Task celery_app.tasks.scraper_example[bb398abd-9e91-43ac-9730-79fb04dbbeeb] succeeded in 0.000611165000009s: None
+[2017-02-04 06:10:49,643: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:10:49,644: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[3e8308a3-48af-40f3-8d89-e3299386eb8d]
+[2017-02-04 06:10:49,645: WARNING/Worker-2] celery task executed
+[2017-02-04 06:10:49,646: INFO/MainProcess] Task celery_app.tasks.scraper_example[3e8308a3-48af-40f3-8d89-e3299386eb8d] succeeded in 0.000651245000881s: None
+[2017-02-04 06:10:49,703: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[bbfc12bd-83b8-42da-aed0-5595a2dafc80]
+[2017-02-04 06:10:49,703: WARNING/Worker-3] celery task executed
+[2017-02-04 06:10:49,704: INFO/MainProcess] Task celery_app.tasks.scraper_example[bbfc12bd-83b8-42da-aed0-5595a2dafc80] succeeded in 0.000654358999782s: None
+[2017-02-04 06:10:54,643: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:10:54,645: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[1f5e6023-b7a3-4097-8beb-af49e5c91f07]
+[2017-02-04 06:10:54,646: WARNING/Worker-2] celery task executed
+[2017-02-04 06:10:54,646: INFO/MainProcess] Task celery_app.tasks.scraper_example[1f5e6023-b7a3-4097-8beb-af49e5c91f07] succeeded in 0.000608612000178s: None
+[2017-02-04 06:10:54,703: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[0f490721-2b45-4f62-9184-d005e0abfb7a]
+[2017-02-04 06:10:54,704: WARNING/Worker-3] celery task executed
+[2017-02-04 06:10:54,704: INFO/MainProcess] Task celery_app.tasks.scraper_example[0f490721-2b45-4f62-9184-d005e0abfb7a] succeeded in 0.000663601999804s: None
+[2017-02-04 06:10:59,644: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:10:59,645: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[891924af-8d96-4ed0-a35c-718f4215a1b8]
+[2017-02-04 06:10:59,646: WARNING/Worker-2] celery task executed
+[2017-02-04 06:10:59,647: INFO/MainProcess] Task celery_app.tasks.scraper_example[891924af-8d96-4ed0-a35c-718f4215a1b8] succeeded in 0.00120867700025s: None
+[2017-02-04 06:10:59,703: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[4a96852e-fe2e-4700-b767-b6f4bb3b3019]
+[2017-02-04 06:10:59,704: WARNING/Worker-3] celery task executed
+[2017-02-04 06:10:59,704: INFO/MainProcess] Task celery_app.tasks.scraper_example[4a96852e-fe2e-4700-b767-b6f4bb3b3019] succeeded in 0.000670192999678s: None
+[2017-02-04 06:11:04,644: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:11:04,647: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[bf6a005a-166c-4e1a-b5e9-cff95e166695]
+[2017-02-04 06:11:04,648: WARNING/Worker-2] celery task executed
+[2017-02-04 06:11:04,649: INFO/MainProcess] Task celery_app.tasks.scraper_example[bf6a005a-166c-4e1a-b5e9-cff95e166695] succeeded in 0.000951529000304s: None
+[2017-02-04 06:11:04,704: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[4059d71e-3ce0-4957-b6c9-9b4bf8618421]
+[2017-02-04 06:11:04,704: WARNING/Worker-3] celery task executed
+[2017-02-04 06:11:04,705: INFO/MainProcess] Task celery_app.tasks.scraper_example[4059d71e-3ce0-4957-b6c9-9b4bf8618421] succeeded in 0.000707124000655s: None
+[2017-02-04 06:11:09,645: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:11:09,648: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[9463c06f-37e3-42b8-a827-4af55be305fd]
+[2017-02-04 06:11:09,650: WARNING/Worker-2] celery task executed
+[2017-02-04 06:11:09,651: INFO/MainProcess] Task celery_app.tasks.scraper_example[9463c06f-37e3-42b8-a827-4af55be305fd] succeeded in 0.00153225400027s: None
+[2017-02-04 06:11:09,704: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[ed71d1e9-299c-4063-968f-238f16bfaad1]
+[2017-02-04 06:11:09,705: WARNING/Worker-3] celery task executed
+[2017-02-04 06:11:09,706: INFO/MainProcess] Task celery_app.tasks.scraper_example[ed71d1e9-299c-4063-968f-238f16bfaad1] succeeded in 0.00100406000001s: None
+[2017-02-04 06:11:14,646: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:11:14,650: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[cdf01b26-d257-40a0-8ee7-326be07bc9d0]
+[2017-02-04 06:11:14,652: WARNING/Worker-2] celery task executed
+[2017-02-04 06:11:14,653: INFO/MainProcess] Task celery_app.tasks.scraper_example[cdf01b26-d257-40a0-8ee7-326be07bc9d0] succeeded in 0.00175140200008s: None
+[2017-02-04 06:11:14,705: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[e6bdee48-ca31-41e6-93ef-bda0ed40cd2e]
+[2017-02-04 06:11:14,707: WARNING/Worker-3] celery task executed
+[2017-02-04 06:11:14,708: INFO/MainProcess] Task celery_app.tasks.scraper_example[e6bdee48-ca31-41e6-93ef-bda0ed40cd2e] succeeded in 0.00123277200055s: None
+[2017-02-04 06:11:19,647: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:11:19,649: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[1bcdb4a4-4da7-40ca-b684-7a5e2e2fc6df]
+[2017-02-04 06:11:19,649: WARNING/Worker-2] celery task executed
+[2017-02-04 06:11:19,650: INFO/MainProcess] Task celery_app.tasks.scraper_example[1bcdb4a4-4da7-40ca-b684-7a5e2e2fc6df] succeeded in 0.000651111000479s: None
+[2017-02-04 06:11:19,704: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[23b99bb5-7947-49cf-8552-0fee8f0eb3ff]
+[2017-02-04 06:11:19,705: WARNING/Worker-3] celery task executed
+[2017-02-04 06:11:19,707: INFO/MainProcess] Task celery_app.tasks.scraper_example[23b99bb5-7947-49cf-8552-0fee8f0eb3ff] succeeded in 0.00158192400067s: None
+[2017-02-04 06:11:24,648: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:11:24,649: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[e9f48d67-a785-40ca-948f-05e822bc99bf]
+[2017-02-04 06:11:24,650: WARNING/Worker-2] celery task executed
+[2017-02-04 06:11:24,650: INFO/MainProcess] Task celery_app.tasks.scraper_example[e9f48d67-a785-40ca-948f-05e822bc99bf] succeeded in 0.000664503000735s: None
+[2017-02-04 06:11:24,705: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[77344a5b-0c32-4e4a-b4da-56ec33f93a1c]
+[2017-02-04 06:11:24,705: WARNING/Worker-3] celery task executed
+[2017-02-04 06:11:24,706: INFO/MainProcess] Task celery_app.tasks.scraper_example[77344a5b-0c32-4e4a-b4da-56ec33f93a1c] succeeded in 0.00108377400011s: None
+[2017-02-04 06:11:29,648: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:11:29,650: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[fadea5d2-c226-4827-978b-1920eaae2286]
+[2017-02-04 06:11:29,651: WARNING/Worker-2] celery task executed
+[2017-02-04 06:11:29,651: INFO/MainProcess] Task celery_app.tasks.scraper_example[fadea5d2-c226-4827-978b-1920eaae2286] succeeded in 0.000856792999912s: None
+[2017-02-04 06:11:29,705: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[36571293-6b6e-40cc-bf04-708a5516af69]
+[2017-02-04 06:11:29,706: WARNING/Worker-3] celery task executed
+[2017-02-04 06:11:29,706: INFO/MainProcess] Task celery_app.tasks.scraper_example[36571293-6b6e-40cc-bf04-708a5516af69] succeeded in 0.000745438999729s: None
+[2017-02-04 06:11:34,648: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:11:34,650: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[8294f5c1-4707-4bd3-b7e0-386faaeba5f3]
+[2017-02-04 06:11:34,650: WARNING/Worker-2] celery task executed
+[2017-02-04 06:11:34,651: INFO/MainProcess] Task celery_app.tasks.scraper_example[8294f5c1-4707-4bd3-b7e0-386faaeba5f3] succeeded in 0.000623676000032s: None
+[2017-02-04 06:11:34,705: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[ae1049b9-dbf4-4165-96ca-02cfad9cfbe6]
+[2017-02-04 06:11:34,706: WARNING/Worker-3] celery task executed
+[2017-02-04 06:11:34,707: INFO/MainProcess] Task celery_app.tasks.scraper_example[ae1049b9-dbf4-4165-96ca-02cfad9cfbe6] succeeded in 0.000762116999795s: None
+[2017-02-04 06:11:39,649: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:11:39,653: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[9c04b33d-f426-467b-820e-403523357d8c]
+[2017-02-04 06:11:39,655: WARNING/Worker-2] celery task executed
+[2017-02-04 06:11:39,656: INFO/MainProcess] Task celery_app.tasks.scraper_example[9c04b33d-f426-467b-820e-403523357d8c] succeeded in 0.00173461299983s: None
+[2017-02-04 06:11:39,707: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[81841138-f8b1-4278-a264-9f47ba5ac2c5]
+[2017-02-04 06:11:39,708: WARNING/Worker-3] celery task executed
+[2017-02-04 06:11:39,709: INFO/MainProcess] Task celery_app.tasks.scraper_example[81841138-f8b1-4278-a264-9f47ba5ac2c5] succeeded in 0.00118514200039s: None
+[2017-02-04 06:11:44,650: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:11:44,651: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[fe12635c-e953-471a-8fd3-41771c9443d3]
+[2017-02-04 06:11:44,652: WARNING/Worker-2] celery task executed
+[2017-02-04 06:11:44,653: INFO/MainProcess] Task celery_app.tasks.scraper_example[fe12635c-e953-471a-8fd3-41771c9443d3] succeeded in 0.000695959999575s: None
+[2017-02-04 06:11:44,706: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[a8029467-e663-4d99-ae8f-de1365120583]
+[2017-02-04 06:11:44,707: WARNING/Worker-3] celery task executed
+[2017-02-04 06:11:44,709: INFO/MainProcess] Task celery_app.tasks.scraper_example[a8029467-e663-4d99-ae8f-de1365120583] succeeded in 0.00259059699965s: None
+[2017-02-04 06:11:49,650: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:11:49,652: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[69ed57c0-7cb3-46f4-bff7-5faa7484170a]
+[2017-02-04 06:11:49,652: WARNING/Worker-2] celery task executed
+[2017-02-04 06:11:49,653: INFO/MainProcess] Task celery_app.tasks.scraper_example[69ed57c0-7cb3-46f4-bff7-5faa7484170a] succeeded in 0.00087604700002s: None
+[2017-02-04 06:11:49,707: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[1f92f48d-d7fd-413e-acdc-8fcfca21e071]
+[2017-02-04 06:11:49,708: WARNING/Worker-3] celery task executed
+[2017-02-04 06:11:49,709: INFO/MainProcess] Task celery_app.tasks.scraper_example[1f92f48d-d7fd-413e-acdc-8fcfca21e071] succeeded in 0.00139789199966s: None
+[2017-02-04 06:11:54,651: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:11:54,653: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[6cffe32a-8be3-49f2-8cad-d84bb2edd607]
+[2017-02-04 06:11:54,654: WARNING/Worker-2] celery task executed
+[2017-02-04 06:11:54,654: INFO/MainProcess] Task celery_app.tasks.scraper_example[6cffe32a-8be3-49f2-8cad-d84bb2edd607] succeeded in 0.000830201000099s: None
+[2017-02-04 06:11:54,707: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[21592ef7-b1fb-4a58-8daa-4b9ce77578fd]
+[2017-02-04 06:11:54,708: WARNING/Worker-3] celery task executed
+[2017-02-04 06:11:54,708: INFO/MainProcess] Task celery_app.tasks.scraper_example[21592ef7-b1fb-4a58-8daa-4b9ce77578fd] succeeded in 0.000682247999976s: None
+[2017-02-04 06:11:59,651: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:11:59,654: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[83ffb712-3ac7-48c3-a578-1288b4515e03]
+[2017-02-04 06:11:59,657: WARNING/Worker-2] celery task executed
+[2017-02-04 06:11:59,658: INFO/MainProcess] Task celery_app.tasks.scraper_example[83ffb712-3ac7-48c3-a578-1288b4515e03] succeeded in 0.00182466600018s: None
+[2017-02-04 06:11:59,708: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[6923adff-039c-42dd-9043-c931e8d3e9ab]
+[2017-02-04 06:11:59,709: WARNING/Worker-3] celery task executed
+[2017-02-04 06:11:59,710: INFO/MainProcess] Task celery_app.tasks.scraper_example[6923adff-039c-42dd-9043-c931e8d3e9ab] succeeded in 0.00102655699993s: None
+[2017-02-04 06:12:04,652: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:12:04,653: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[3c4dc838-93c6-409d-872c-dd7718e02332]
+[2017-02-04 06:12:04,654: WARNING/Worker-2] celery task executed
+[2017-02-04 06:12:04,654: INFO/MainProcess] Task celery_app.tasks.scraper_example[3c4dc838-93c6-409d-872c-dd7718e02332] succeeded in 0.000692466000146s: None
+[2017-02-04 06:12:04,707: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[e303ae08-7f53-4152-8270-169d8cd5a5e3]
+[2017-02-04 06:12:04,708: WARNING/Worker-3] celery task executed
+[2017-02-04 06:12:04,708: INFO/MainProcess] Task celery_app.tasks.scraper_example[e303ae08-7f53-4152-8270-169d8cd5a5e3] succeeded in 0.000644362999992s: None
+[2017-02-04 06:12:09,652: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:12:09,653: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[510c9b70-b360-4b54-8ffd-470d8352e5fb]
+[2017-02-04 06:12:09,654: WARNING/Worker-2] celery task executed
+[2017-02-04 06:12:09,655: INFO/MainProcess] Task celery_app.tasks.scraper_example[510c9b70-b360-4b54-8ffd-470d8352e5fb] succeeded in 0.000678452999637s: None
+[2017-02-04 06:12:09,708: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[d3a0244c-93dc-4478-b607-7696206fabad]
+[2017-02-04 06:12:09,709: WARNING/Worker-3] celery task executed
+[2017-02-04 06:12:09,710: INFO/MainProcess] Task celery_app.tasks.scraper_example[d3a0244c-93dc-4478-b607-7696206fabad] succeeded in 0.0011865360002s: None
+[2017-02-04 06:12:14,652: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:12:14,661: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[a3e3e2e7-f43f-4925-af2f-c43b9b4a72fe]
+[2017-02-04 06:12:14,661: WARNING/Worker-2] celery task executed
+[2017-02-04 06:12:14,662: INFO/MainProcess] Task celery_app.tasks.scraper_example[a3e3e2e7-f43f-4925-af2f-c43b9b4a72fe] succeeded in 0.000736699999834s: None
+[2017-02-04 06:12:14,712: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[24526ecd-9b64-4dbd-a1ee-f8979c2a2f9f]
+[2017-02-04 06:12:14,713: WARNING/Worker-3] celery task executed
+[2017-02-04 06:12:14,714: INFO/MainProcess] Task celery_app.tasks.scraper_example[24526ecd-9b64-4dbd-a1ee-f8979c2a2f9f] succeeded in 0.00104920499962s: None
+[2017-02-04 06:12:19,654: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:12:19,656: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[9bb8c5ae-2693-4c74-9232-e64bc21b6cac]
+[2017-02-04 06:12:19,656: WARNING/Worker-2] celery task executed
+[2017-02-04 06:12:19,657: INFO/MainProcess] Task celery_app.tasks.scraper_example[9bb8c5ae-2693-4c74-9232-e64bc21b6cac] succeeded in 0.000664619999952s: None
+[2017-02-04 06:12:19,712: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[3db74033-6128-4608-ac08-6b550ead8e08]
+[2017-02-04 06:12:19,713: WARNING/Worker-3] celery task executed
+[2017-02-04 06:12:19,714: INFO/MainProcess] Task celery_app.tasks.scraper_example[3db74033-6128-4608-ac08-6b550ead8e08] succeeded in 0.000965913000073s: None
+[2017-02-04 06:12:24,655: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:12:24,658: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[b69693fe-ba0d-4291-ad61-7302f6f3f9b7]
+[2017-02-04 06:12:24,659: WARNING/Worker-2] celery task executed
+[2017-02-04 06:12:24,660: INFO/MainProcess] Task celery_app.tasks.scraper_example[b69693fe-ba0d-4291-ad61-7302f6f3f9b7] succeeded in 0.000756563999857s: None
+[2017-02-04 06:12:24,713: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[6a9d1ae6-4096-4169-9988-544cdeb54948]
+[2017-02-04 06:12:24,713: WARNING/Worker-3] celery task executed
+[2017-02-04 06:12:24,715: INFO/MainProcess] Task celery_app.tasks.scraper_example[6a9d1ae6-4096-4169-9988-544cdeb54948] succeeded in 0.00147710800047s: None
+[2017-02-04 06:12:29,655: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:12:29,658: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[d4be660f-24e5-4c89-98fb-9f5b4d5b98c8]
+[2017-02-04 06:12:29,659: WARNING/Worker-2] celery task executed
+[2017-02-04 06:12:29,661: INFO/MainProcess] Task celery_app.tasks.scraper_example[d4be660f-24e5-4c89-98fb-9f5b4d5b98c8] succeeded in 0.00177267599975s: None
+[2017-02-04 06:12:29,713: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[8e4a4dcd-3289-4cb1-9433-0b4f997a4dcf]
+[2017-02-04 06:12:29,714: WARNING/Worker-3] celery task executed
+[2017-02-04 06:12:29,716: INFO/MainProcess] Task celery_app.tasks.scraper_example[8e4a4dcd-3289-4cb1-9433-0b4f997a4dcf] succeeded in 0.00193371400019s: None
+[2017-02-04 06:12:34,656: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:12:34,657: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[8e088435-b8c6-4603-8a4f-705ee07ad9d9]
+[2017-02-04 06:12:34,658: WARNING/Worker-2] celery task executed
+[2017-02-04 06:12:34,659: INFO/MainProcess] Task celery_app.tasks.scraper_example[8e088435-b8c6-4603-8a4f-705ee07ad9d9] succeeded in 0.000748790000216s: None
+[2017-02-04 06:12:34,713: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[2ef22826-005b-4c8f-83a2-bdee0d6a49e3]
+[2017-02-04 06:12:34,714: WARNING/Worker-3] celery task executed
+[2017-02-04 06:12:34,715: INFO/MainProcess] Task celery_app.tasks.scraper_example[2ef22826-005b-4c8f-83a2-bdee0d6a49e3] succeeded in 0.000683281999954s: None
+[2017-02-04 06:12:39,656: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:12:39,660: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[aac1941d-9955-40db-9a64-6ef88ddab89f]
+[2017-02-04 06:12:39,661: WARNING/Worker-2] celery task executed
+[2017-02-04 06:12:39,662: INFO/MainProcess] Task celery_app.tasks.scraper_example[aac1941d-9955-40db-9a64-6ef88ddab89f] succeeded in 0.00138463100029s: None
+[2017-02-04 06:12:39,715: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[1bbfa412-ae3c-488b-b881-d2972ada40d2]
+[2017-02-04 06:12:39,716: WARNING/Worker-3] celery task executed
+[2017-02-04 06:12:39,717: INFO/MainProcess] Task celery_app.tasks.scraper_example[1bbfa412-ae3c-488b-b881-d2972ada40d2] succeeded in 0.00152654499925s: None
+[2017-02-04 06:12:44,657: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:12:44,658: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[cb06591e-3d0d-4f19-ade6-a8b310c4471a]
+[2017-02-04 06:12:44,659: WARNING/Worker-2] celery task executed
+[2017-02-04 06:12:44,660: INFO/MainProcess] Task celery_app.tasks.scraper_example[cb06591e-3d0d-4f19-ade6-a8b310c4471a] succeeded in 0.000746896000237s: None
+[2017-02-04 06:12:44,714: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[ff295946-1234-4b8f-8214-1e827760d775]
+[2017-02-04 06:12:44,715: WARNING/Worker-3] celery task executed
+[2017-02-04 06:12:44,715: INFO/MainProcess] Task celery_app.tasks.scraper_example[ff295946-1234-4b8f-8214-1e827760d775] succeeded in 0.000680383999679s: None
+[2017-02-04 06:12:49,674: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:12:49,676: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[a562c3e1-e4da-4e74-b34e-9b0788f47fc7]
+[2017-02-04 06:12:49,676: WARNING/Worker-2] celery task executed
+[2017-02-04 06:12:49,677: INFO/MainProcess] Task celery_app.tasks.scraper_example[a562c3e1-e4da-4e74-b34e-9b0788f47fc7] succeeded in 0.000923239000258s: None
+[2017-02-04 06:12:49,717: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[b1603fe4-b912-4742-b465-89189cd8190d]
+[2017-02-04 06:12:49,719: WARNING/Worker-3] celery task executed
+[2017-02-04 06:12:49,719: INFO/MainProcess] Task celery_app.tasks.scraper_example[b1603fe4-b912-4742-b465-89189cd8190d] succeeded in 0.00100527999984s: None
+[2017-02-04 06:12:54,674: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:12:54,676: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[bf6c5052-dda5-44c8-929c-34d68b0126f3]
+[2017-02-04 06:12:54,676: WARNING/Worker-2] celery task executed
+[2017-02-04 06:12:54,677: INFO/MainProcess] Task celery_app.tasks.scraper_example[bf6c5052-dda5-44c8-929c-34d68b0126f3] succeeded in 0.000638143000288s: None
+[2017-02-04 06:12:54,718: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[fa295c2a-2edb-44f1-a460-be80e49d6906]
+[2017-02-04 06:12:54,719: WARNING/Worker-3] celery task executed
+[2017-02-04 06:12:54,719: INFO/MainProcess] Task celery_app.tasks.scraper_example[fa295c2a-2edb-44f1-a460-be80e49d6906] succeeded in 0.000717984000403s: None
+[2017-02-04 06:12:59,675: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:12:59,676: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[d59fb166-bea1-4443-936d-b5eeae978fc4]
+[2017-02-04 06:12:59,677: WARNING/Worker-2] celery task executed
+[2017-02-04 06:12:59,678: INFO/MainProcess] Task celery_app.tasks.scraper_example[d59fb166-bea1-4443-936d-b5eeae978fc4] succeeded in 0.000774028999331s: None
+[2017-02-04 06:12:59,718: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[1d234b3f-0f66-4cc0-8f54-04a90be1705a]
+[2017-02-04 06:12:59,719: WARNING/Worker-3] celery task executed
+[2017-02-04 06:12:59,719: INFO/MainProcess] Task celery_app.tasks.scraper_example[1d234b3f-0f66-4cc0-8f54-04a90be1705a] succeeded in 0.000763187999837s: None
+[2017-02-04 06:13:04,675: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:13:04,676: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[8a914bb9-ed97-474e-944b-21c0be065900]
+[2017-02-04 06:13:04,677: WARNING/Worker-2] celery task executed
+[2017-02-04 06:13:04,678: INFO/MainProcess] Task celery_app.tasks.scraper_example[8a914bb9-ed97-474e-944b-21c0be065900] succeeded in 0.000624522999715s: None
+[2017-02-04 06:13:04,718: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[12021574-cfb1-4a0e-ab24-36445eccd652]
+[2017-02-04 06:13:04,719: WARNING/Worker-3] celery task executed
+[2017-02-04 06:13:04,719: INFO/MainProcess] Task celery_app.tasks.scraper_example[12021574-cfb1-4a0e-ab24-36445eccd652] succeeded in 0.000640917000055s: None
+[2017-02-04 06:13:09,675: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:13:09,678: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[9ef59594-62c3-4a16-bb01-283fb7b0fb29]
+[2017-02-04 06:13:09,679: WARNING/Worker-2] celery task executed
+[2017-02-04 06:13:09,680: INFO/MainProcess] Task celery_app.tasks.scraper_example[9ef59594-62c3-4a16-bb01-283fb7b0fb29] succeeded in 0.00122809899949s: None
+[2017-02-04 06:13:09,718: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[3440790f-c92f-492a-9fc4-d2378ebd8b25]
+[2017-02-04 06:13:09,719: WARNING/Worker-3] celery task executed
+[2017-02-04 06:13:09,719: INFO/MainProcess] Task celery_app.tasks.scraper_example[3440790f-c92f-492a-9fc4-d2378ebd8b25] succeeded in 0.000641379000626s: None
+[2017-02-04 06:13:14,676: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:13:14,677: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[33b165b7-0d19-46f5-8a98-25ebb2edc040]
+[2017-02-04 06:13:14,678: WARNING/Worker-2] celery task executed
+[2017-02-04 06:13:14,679: INFO/MainProcess] Task celery_app.tasks.scraper_example[33b165b7-0d19-46f5-8a98-25ebb2edc040] succeeded in 0.000716218999514s: None
+[2017-02-04 06:13:14,718: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[6214afe9-5552-4b4a-8e5a-0e39db3cb103]
+[2017-02-04 06:13:14,719: WARNING/Worker-3] celery task executed
+[2017-02-04 06:13:14,720: INFO/MainProcess] Task celery_app.tasks.scraper_example[6214afe9-5552-4b4a-8e5a-0e39db3cb103] succeeded in 0.000655277000078s: None
+[2017-02-04 06:13:19,676: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:13:19,681: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[d3694328-5e65-47f4-bf90-92f02cfd152a]
+[2017-02-04 06:13:19,681: WARNING/Worker-2] celery task executed
+[2017-02-04 06:13:19,682: INFO/MainProcess] Task celery_app.tasks.scraper_example[d3694328-5e65-47f4-bf90-92f02cfd152a] succeeded in 0.000727781000023s: None
+[2017-02-04 06:13:19,722: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[00c4cad8-f641-4d9e-b5cc-0fc5227dc0f3]
+[2017-02-04 06:13:19,722: WARNING/Worker-3] celery task executed
+[2017-02-04 06:13:19,723: INFO/MainProcess] Task celery_app.tasks.scraper_example[00c4cad8-f641-4d9e-b5cc-0fc5227dc0f3] succeeded in 0.000686917000166s: None
+[2017-02-04 06:13:24,680: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:13:24,681: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[8ccd04e3-f0f9-455f-a48b-847a70cc63ce]
+[2017-02-04 06:13:24,682: WARNING/Worker-2] celery task executed
+[2017-02-04 06:13:24,682: INFO/MainProcess] Task celery_app.tasks.scraper_example[8ccd04e3-f0f9-455f-a48b-847a70cc63ce] succeeded in 0.000643387000309s: None
+[2017-02-04 06:13:24,723: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[5f06e954-2efb-4a79-bb83-b21c93e7dc26]
+[2017-02-04 06:13:24,723: WARNING/Worker-3] celery task executed
+[2017-02-04 06:13:24,724: INFO/MainProcess] Task celery_app.tasks.scraper_example[5f06e954-2efb-4a79-bb83-b21c93e7dc26] succeeded in 0.000653231999422s: None
+[2017-02-04 06:13:29,680: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:13:29,682: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[5d189083-ab96-4f59-8554-821c4d4d9d14]
+[2017-02-04 06:13:29,683: WARNING/Worker-2] celery task executed
+[2017-02-04 06:13:29,683: INFO/MainProcess] Task celery_app.tasks.scraper_example[5d189083-ab96-4f59-8554-821c4d4d9d14] succeeded in 0.000749687999814s: None
+[2017-02-04 06:13:29,722: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[e6248810-7823-488f-8c14-e04be37a6ffc]
+[2017-02-04 06:13:29,723: WARNING/Worker-3] celery task executed
+[2017-02-04 06:13:29,724: INFO/MainProcess] Task celery_app.tasks.scraper_example[e6248810-7823-488f-8c14-e04be37a6ffc] succeeded in 0.000772210000832s: None
+[2017-02-04 06:13:34,680: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:13:34,682: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[e39de255-cf42-424d-98ed-023ab5320771]
+[2017-02-04 06:13:34,683: WARNING/Worker-2] celery task executed
+[2017-02-04 06:13:34,684: INFO/MainProcess] Task celery_app.tasks.scraper_example[e39de255-cf42-424d-98ed-023ab5320771] succeeded in 0.000855847999446s: None
+[2017-02-04 06:13:34,722: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[d8efbe42-b0d3-48c8-9e83-4774e5da330d]
+[2017-02-04 06:13:34,723: WARNING/Worker-3] celery task executed
+[2017-02-04 06:13:34,724: INFO/MainProcess] Task celery_app.tasks.scraper_example[d8efbe42-b0d3-48c8-9e83-4774e5da330d] succeeded in 0.000680196000758s: None
+[2017-02-04 06:13:39,681: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:13:39,684: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[8c52e0c8-2b15-40e2-afac-c474bd903f01]
+[2017-02-04 06:13:39,685: WARNING/Worker-2] celery task executed
+[2017-02-04 06:13:39,686: INFO/MainProcess] Task celery_app.tasks.scraper_example[8c52e0c8-2b15-40e2-afac-c474bd903f01] succeeded in 0.0011113949995s: None
+[2017-02-04 06:13:39,725: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[f634fccb-315d-4c8f-8710-d875f6c903c0]
+[2017-02-04 06:13:39,725: WARNING/Worker-3] celery task executed
+[2017-02-04 06:13:39,726: INFO/MainProcess] Task celery_app.tasks.scraper_example[f634fccb-315d-4c8f-8710-d875f6c903c0] succeeded in 0.000646776999929s: None
+[2017-02-04 06:13:44,683: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:13:44,685: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[57fd6ad6-6cb4-45b3-bc8a-960f1ad44974]
+[2017-02-04 06:13:44,686: WARNING/Worker-2] celery task executed
+[2017-02-04 06:13:44,687: INFO/MainProcess] Task celery_app.tasks.scraper_example[57fd6ad6-6cb4-45b3-bc8a-960f1ad44974] succeeded in 0.00110584100003s: None
+[2017-02-04 06:13:44,726: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[9569317c-ad11-480c-8336-5103e8921acc]
+[2017-02-04 06:13:44,727: WARNING/Worker-3] celery task executed
+[2017-02-04 06:13:44,728: INFO/MainProcess] Task celery_app.tasks.scraper_example[9569317c-ad11-480c-8336-5103e8921acc] succeeded in 0.000959330000114s: None
+[2017-02-04 06:13:49,684: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:13:49,686: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[ef078ae9-413f-46f5-9898-5832075d8aab]
+[2017-02-04 06:13:49,689: WARNING/Worker-2] celery task executed
+[2017-02-04 06:13:49,690: INFO/MainProcess] Task celery_app.tasks.scraper_example[ef078ae9-413f-46f5-9898-5832075d8aab] succeeded in 0.00213656699998s: None
+[2017-02-04 06:13:49,725: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[08ade783-052d-4dc5-9c30-502160146e4c]
+[2017-02-04 06:13:49,726: WARNING/Worker-3] celery task executed
+[2017-02-04 06:13:49,727: INFO/MainProcess] Task celery_app.tasks.scraper_example[08ade783-052d-4dc5-9c30-502160146e4c] succeeded in 0.00091005899958s: None
+[2017-02-04 06:13:54,684: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:13:54,687: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[7592eb0b-da79-4eee-a2d1-4eddf5940667]
+[2017-02-04 06:13:54,689: WARNING/Worker-2] celery task executed
+[2017-02-04 06:13:54,690: INFO/MainProcess] Task celery_app.tasks.scraper_example[7592eb0b-da79-4eee-a2d1-4eddf5940667] succeeded in 0.00155756700042s: None
+[2017-02-04 06:13:54,727: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[f2ceccf6-450d-4d58-8e16-ccd1d9db8c4a]
+[2017-02-04 06:13:54,728: WARNING/Worker-3] celery task executed
+[2017-02-04 06:13:54,728: INFO/MainProcess] Task celery_app.tasks.scraper_example[f2ceccf6-450d-4d58-8e16-ccd1d9db8c4a] succeeded in 0.000971888000095s: None
+[2017-02-04 06:13:59,685: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:13:59,687: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[9de858db-5883-4792-94d1-be2de78ae51e]
+[2017-02-04 06:13:59,688: WARNING/Worker-2] celery task executed
+[2017-02-04 06:13:59,688: INFO/MainProcess] Task celery_app.tasks.scraper_example[9de858db-5883-4792-94d1-be2de78ae51e] succeeded in 0.00086390100023s: None
+[2017-02-04 06:13:59,726: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[6f572703-a92e-445b-a2d4-636316c1e278]
+[2017-02-04 06:13:59,727: WARNING/Worker-3] celery task executed
+[2017-02-04 06:13:59,727: INFO/MainProcess] Task celery_app.tasks.scraper_example[6f572703-a92e-445b-a2d4-636316c1e278] succeeded in 0.000656017000438s: None
+[2017-02-04 06:14:04,685: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:14:04,687: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[aeae89b0-18d9-4280-87ca-f4be68b098fd]
+[2017-02-04 06:14:04,687: WARNING/Worker-2] celery task executed
+[2017-02-04 06:14:04,688: INFO/MainProcess] Task celery_app.tasks.scraper_example[aeae89b0-18d9-4280-87ca-f4be68b098fd] succeeded in 0.000502324000081s: None
+[2017-02-04 06:14:04,726: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[a7ed0f8d-df1d-4b90-9a65-6abbdf3d089c]
+[2017-02-04 06:14:04,727: WARNING/Worker-3] celery task executed
+[2017-02-04 06:14:04,727: INFO/MainProcess] Task celery_app.tasks.scraper_example[a7ed0f8d-df1d-4b90-9a65-6abbdf3d089c] succeeded in 0.000464268000542s: None
+[2017-02-04 06:14:09,686: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:14:09,687: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[fe096f9b-815c-4bde-a49a-89c6d3f1f3a0]
+[2017-02-04 06:14:09,688: WARNING/Worker-2] celery task executed
+[2017-02-04 06:14:09,689: INFO/MainProcess] Task celery_app.tasks.scraper_example[fe096f9b-815c-4bde-a49a-89c6d3f1f3a0] succeeded in 0.000700788000358s: None
+[2017-02-04 06:14:09,726: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[1e88b5ee-ab58-4a12-a9a3-7ea0b3fcf056]
+[2017-02-04 06:14:09,727: WARNING/Worker-3] celery task executed
+[2017-02-04 06:14:09,728: INFO/MainProcess] Task celery_app.tasks.scraper_example[1e88b5ee-ab58-4a12-a9a3-7ea0b3fcf056] succeeded in 0.000640324999949s: None
+[2017-02-04 06:14:14,686: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:14:14,690: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[db6b8b9c-d2ed-41af-961f-dd445bc1a68d]
+[2017-02-04 06:14:14,691: WARNING/Worker-2] celery task executed
+[2017-02-04 06:14:14,692: INFO/MainProcess] Task celery_app.tasks.scraper_example[db6b8b9c-d2ed-41af-961f-dd445bc1a68d] succeeded in 0.00111215800007s: None
+[2017-02-04 06:14:14,728: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[154894ee-f4c6-4433-abc3-16d9908a3a71]
+[2017-02-04 06:14:14,729: WARNING/Worker-3] celery task executed
+[2017-02-04 06:14:14,730: INFO/MainProcess] Task celery_app.tasks.scraper_example[154894ee-f4c6-4433-abc3-16d9908a3a71] succeeded in 0.00107742399996s: None
+[2017-02-04 06:14:19,687: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:14:19,688: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[e965260c-ffc0-454f-a414-81c8c1886c35]
+[2017-02-04 06:14:19,689: WARNING/Worker-2] celery task executed
+[2017-02-04 06:14:19,690: INFO/MainProcess] Task celery_app.tasks.scraper_example[e965260c-ffc0-454f-a414-81c8c1886c35] succeeded in 0.00080038499982s: None
+[2017-02-04 06:14:19,727: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[b09126f4-21e0-4d33-8e0b-5adfa6873dc8]
+[2017-02-04 06:14:19,728: WARNING/Worker-3] celery task executed
+[2017-02-04 06:14:19,728: INFO/MainProcess] Task celery_app.tasks.scraper_example[b09126f4-21e0-4d33-8e0b-5adfa6873dc8] succeeded in 0.000660177999634s: None
+[2017-02-04 06:14:24,687: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:14:24,690: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[b117173d-2504-44c8-9ee1-a0d58e08554b]
+[2017-02-04 06:14:24,692: WARNING/Worker-2] celery task executed
+[2017-02-04 06:14:24,693: INFO/MainProcess] Task celery_app.tasks.scraper_example[b117173d-2504-44c8-9ee1-a0d58e08554b] succeeded in 0.00131688599959s: None
+[2017-02-04 06:14:24,728: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[f4222567-2f60-4f6e-a000-1b5f5e3c5a03]
+[2017-02-04 06:14:24,729: WARNING/Worker-3] celery task executed
+[2017-02-04 06:14:24,729: INFO/MainProcess] Task celery_app.tasks.scraper_example[f4222567-2f60-4f6e-a000-1b5f5e3c5a03] succeeded in 0.000794402999418s: None
+[2017-02-04 06:14:29,688: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:14:29,690: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[c84f62f7-56e4-483e-9822-0aaeb5f6e7f3]
+[2017-02-04 06:14:29,691: WARNING/Worker-2] celery task executed
+[2017-02-04 06:14:29,692: INFO/MainProcess] Task celery_app.tasks.scraper_example[c84f62f7-56e4-483e-9822-0aaeb5f6e7f3] succeeded in 0.00098493600035s: None
+[2017-02-04 06:14:29,728: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[e1874df9-6a20-4936-92c9-025d6535de71]
+[2017-02-04 06:14:29,728: WARNING/Worker-3] celery task executed
+[2017-02-04 06:14:29,729: INFO/MainProcess] Task celery_app.tasks.scraper_example[e1874df9-6a20-4936-92c9-025d6535de71] succeeded in 0.000609247000284s: None
+[2017-02-04 06:14:34,691: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:14:34,693: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[186e31a7-964b-4596-8002-6592c3c8b861]
+[2017-02-04 06:14:34,694: WARNING/Worker-2] celery task executed
+[2017-02-04 06:14:34,694: INFO/MainProcess] Task celery_app.tasks.scraper_example[186e31a7-964b-4596-8002-6592c3c8b861] succeeded in 0.00081887899978s: None
+[2017-02-04 06:14:34,728: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[5fdb9711-de19-473b-a0fb-b0aa8ecd204d]
+[2017-02-04 06:14:34,729: WARNING/Worker-3] celery task executed
+[2017-02-04 06:14:34,729: INFO/MainProcess] Task celery_app.tasks.scraper_example[5fdb9711-de19-473b-a0fb-b0aa8ecd204d] succeeded in 0.000641007999548s: None
+[2017-02-04 06:14:39,692: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:14:39,694: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[9c13ebfc-c01a-4da1-b9e3-6e6594beb426]
+[2017-02-04 06:14:39,695: WARNING/Worker-2] celery task executed
+[2017-02-04 06:14:39,696: INFO/MainProcess] Task celery_app.tasks.scraper_example[9c13ebfc-c01a-4da1-b9e3-6e6594beb426] succeeded in 0.00124956499985s: None
+[2017-02-04 06:14:39,728: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[33a16a03-fddf-4eb3-bc73-6bde43ceeae7]
+[2017-02-04 06:14:39,729: WARNING/Worker-3] celery task executed
+[2017-02-04 06:14:39,730: INFO/MainProcess] Task celery_app.tasks.scraper_example[33a16a03-fddf-4eb3-bc73-6bde43ceeae7] succeeded in 0.00142218800011s: None
+[2017-02-04 06:14:44,692: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:14:44,694: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[164adebd-4d5a-42a6-ae9d-506cbb57cab3]
+[2017-02-04 06:14:44,695: WARNING/Worker-2] celery task executed
+[2017-02-04 06:14:44,696: INFO/MainProcess] Task celery_app.tasks.scraper_example[164adebd-4d5a-42a6-ae9d-506cbb57cab3] succeeded in 0.000860436000039s: None
+[2017-02-04 06:14:44,729: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[295dfadd-4bb2-47e6-9404-a553b40f560c]
+[2017-02-04 06:14:44,729: WARNING/Worker-3] celery task executed
+[2017-02-04 06:14:44,730: INFO/MainProcess] Task celery_app.tasks.scraper_example[295dfadd-4bb2-47e6-9404-a553b40f560c] succeeded in 0.000706140000148s: None
+[2017-02-04 06:14:49,693: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:14:49,695: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[f8c6f49f-5a62-479e-8e83-97c6d1228faa]
+[2017-02-04 06:14:49,696: WARNING/Worker-2] celery task executed
+[2017-02-04 06:14:49,696: INFO/MainProcess] Task celery_app.tasks.scraper_example[f8c6f49f-5a62-479e-8e83-97c6d1228faa] succeeded in 0.0007559579999s: None
+[2017-02-04 06:14:49,729: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[ace0c1e4-b1d7-4477-9367-392f675e6e0f]
+[2017-02-04 06:14:49,730: WARNING/Worker-3] celery task executed
+[2017-02-04 06:14:49,730: INFO/MainProcess] Task celery_app.tasks.scraper_example[ace0c1e4-b1d7-4477-9367-392f675e6e0f] succeeded in 0.000863620000018s: None
+[2017-02-04 06:14:54,694: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:14:54,697: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[e967a2e6-f275-4c81-b1e5-ba512d914d15]
+[2017-02-04 06:14:54,699: WARNING/Worker-2] celery task executed
+[2017-02-04 06:14:54,700: INFO/MainProcess] Task celery_app.tasks.scraper_example[e967a2e6-f275-4c81-b1e5-ba512d914d15] succeeded in 0.00123586900008s: None
+[2017-02-04 06:14:54,730: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[d4eddac1-bff8-433e-b397-1e768548462f]
+[2017-02-04 06:14:54,731: WARNING/Worker-3] celery task executed
+[2017-02-04 06:14:54,731: INFO/MainProcess] Task celery_app.tasks.scraper_example[d4eddac1-bff8-433e-b397-1e768548462f] succeeded in 0.000989261000541s: None
+[2017-02-04 06:14:59,694: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:14:59,695: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[24361c6f-3527-47a3-a419-569963986e00]
+[2017-02-04 06:14:59,696: WARNING/Worker-2] celery task executed
+[2017-02-04 06:14:59,696: INFO/MainProcess] Task celery_app.tasks.scraper_example[24361c6f-3527-47a3-a419-569963986e00] succeeded in 0.000641081999674s: None
+[2017-02-04 06:14:59,729: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[ef28f0af-3deb-4cd2-af42-218014410653]
+[2017-02-04 06:14:59,730: WARNING/Worker-3] celery task executed
+[2017-02-04 06:14:59,731: INFO/MainProcess] Task celery_app.tasks.scraper_example[ef28f0af-3deb-4cd2-af42-218014410653] succeeded in 0.000722123000742s: None
+[2017-02-04 06:15:04,694: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:15:04,696: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[7847ca0d-9b85-47df-a494-2a366410cc1f]
+[2017-02-04 06:15:04,697: WARNING/Worker-2] celery task executed
+[2017-02-04 06:15:04,698: INFO/MainProcess] Task celery_app.tasks.scraper_example[7847ca0d-9b85-47df-a494-2a366410cc1f] succeeded in 0.000995521999357s: None
+[2017-02-04 06:15:04,730: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[cd3ec8df-e1c8-454b-81f5-924e5c013fa8]
+[2017-02-04 06:15:04,731: WARNING/Worker-3] celery task executed
+[2017-02-04 06:15:04,731: INFO/MainProcess] Task celery_app.tasks.scraper_example[cd3ec8df-e1c8-454b-81f5-924e5c013fa8] succeeded in 0.000702508999893s: None
+[2017-02-04 06:15:09,695: INFO/Beat] Scheduler: Sending due task celery_app.tasks.scraper_example (celery_app.tasks.scraper_example)
+[2017-02-04 06:15:09,696: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[d8c528fa-e03a-40a6-8a69-b5760bec3ef5]
+[2017-02-04 06:15:09,697: WARNING/Worker-2] celery task executed
+[2017-02-04 06:15:09,697: INFO/MainProcess] Task celery_app.tasks.scraper_example[d8c528fa-e03a-40a6-8a69-b5760bec3ef5] succeeded in 0.000730785000087s: None
+[2017-02-04 06:15:09,730: INFO/MainProcess] Received task: celery_app.tasks.scraper_example[e7e0b148-87fc-4ac0-9e94-c045e545b07e]
+[2017-02-04 06:15:09,731: WARNING/Worker-3] celery task executed
+[2017-02-04 06:15:09,732: INFO/MainProcess] Task celery_app.tasks.scraper_example[e7e0b148-87fc-4ac0-9e94-c045e545b07e] succeeded in 0.000753325000005s: None
+[2017-02-04 06:15:14,255: INFO/MainProcess] beat: Shutting down...
